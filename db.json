@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "desc": "Website portofolio modern dengan React & TailwindCSS",
+      "link": "https://example.com"
+    }
+  ],
+
+  "hobbies": [
+    { "id": 1, "name": "Coding" },
+    { "id": 2, "name": "Gaming" },
+    { "id": 3, "name": "Membaca" }
+  ],
+
+  "skills": [
+    { "id": 1, "name": "HTML" },
+    { "id": 2, "name": "CSS" },
+    { "id": 3, "name": "JavaScript" },
+    { "id": 4, "name": "React" }
+  ]
+}
